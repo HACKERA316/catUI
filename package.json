@@ -1,0 +1,34 @@
+{
+  "name": "@catui/main",
+  "version": "0.0.0-alpha1",
+  "description": "javascript css library",
+  "source": "src/index.js",
+  "dependencies": {
+    "parcel": "^2.8.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  },
+  "scripts": {
+    "parcel-start": "parcel",
+    "parcel-watch": "parcel watch",
+    "parcel-build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HACKERA316/catUI.git"
+  },
+  "keywords": [
+    "javascript",
+    "catui",
+    "library",
+    "css",
+    "typescript"
+  ],
+  "author": "Muhammet Ablay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HACKERA316/catUI/issues"
+  },
+  "homepage": "https://github.com/HACKERA316/catUI#readme"
+}
