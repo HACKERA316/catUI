@@ -12,7 +12,8 @@
   "scripts": {
     "parcel-start": "parcel",
     "parcel-watch": "parcel watch",
-    "parcel-build": "parcel build src/index.html"
+    "parcel-build": "parcel build src/index.html",
+    "webpack-start": "webpack"
   },
   "repository": {
     "type": "git",
